@@ -1,4 +1,7 @@
 streamlit
-pandas
 scikit-learn
+pandas
 openpyxl
+streamlit-option-menu
+sklearn
+scipy
